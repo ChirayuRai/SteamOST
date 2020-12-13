@@ -1,0 +1,1 @@
+This project creates a playlist similar to the soundtrack of games in of your choosing from your Steam library. Just run the program and enter your Steam and Spotify usernames. Please make sure to read the Proper_Usernames.txt file before launching the python file. 
