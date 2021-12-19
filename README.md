@@ -3,5 +3,5 @@ playlist of music similar to the game selected.
 
 Technology used: Python, Steam API, Spotify API, Youtube API
 
-![OST of game](SC1.png)
-![Similar playlist](SC2.png)
+![OST of game](SC2.png)
+![Similar playlist](SC1.png)
