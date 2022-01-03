@@ -5,6 +5,8 @@ Here you'll see your Steam ID and have the option to change it to whatever you w
 When you're done, scroll to the bottom and click “Save Changes".
 Once you have finished those steps, please relaunch the program and try again!
 
+Use this link to see your Steam64 ID: https://steamid.io/
+
 Spotify:
 If you created your spotify without using facebook, then just enter the username you have in your profile.
 If you create your spotify using Facebook, please go to https://www.spotify.com/account/overview and sign into your Spotify account using your Facebook login credientials.
